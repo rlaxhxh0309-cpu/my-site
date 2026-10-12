@@ -31,7 +31,7 @@ svg {
   justify-content: center;
   text-align: center;
   padding: 2rem 1rem;
-  background: linear-gradient(135deg, #ffd6a5, #ffadad, #bdb2ff, #a0e7e5);
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
   background-size: 300% 300%;
   animation: gradientShift 12s ease infinite;
   position: relative;
